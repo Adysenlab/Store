@@ -59,3 +59,13 @@ build
 # End of https://www.gitignore.io/api/c++,cmake,visualstudiocode
 ##exclude build folder from build ##
 build/
+
+## for the skiplist ds ##
+
+test_list.h
+*.o
+*.a
+*.dSYM
+gmon.out
+TODO
+bench
